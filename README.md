@@ -1,2 +1,2 @@
 # CodeSoft
-some projects on cpp
+Projects on C++ 
